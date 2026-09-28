@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Local run state and logs
+.triage_state.json
+logs/
+
+# Python / tooling
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
